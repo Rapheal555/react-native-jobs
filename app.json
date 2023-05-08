@@ -11,6 +11,12 @@
         "projectId": "d9e0083c-8a48-4d1f-8493-ef978afa9c24"
       }
     },
-    "owner": "rapheal555"
+    "owner": "rapheal555",
+    "android": {
+      "package": "com.rapheal555.myfirstexpoproject"
+    },
+    "ios": {
+      "bundleIdentifier": "com.rapheal555.myfirstexpoproject"
+    }
   }
 }
