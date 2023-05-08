@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "slug": "my-first-expo-project",
+    "extra": {
+      "eas": {
+        "projectId": "d9e0083c-8a48-4d1f-8493-ef978afa9c24"
+      }
+    },
+    "owner": "rapheal555"
   }
 }
